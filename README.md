@@ -5,6 +5,7 @@ In part_1_mars_news.ipynb, the Mars NASA website was visited. BeautifulSoup was 
 
 Part 2 - Scrape and Analyze Mars Weather Data
 
+In part_2_mars_news.ipynb, the Mars Temperature Data Site was visited. BeautifulSoup was used to extract the data from all rows of the table. That data was then stored in a python list so that a Pandas DataFrame could be built with it. The data types of each column were then changed from object to datetime, int, and float. The data was then analyzed to answer the five provided questions and plot graphs. A CSV file was created with the data from the DataFrame.  
 
 Resources Used
 
